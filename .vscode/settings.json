@@ -9,6 +9,10 @@
     ],
     "cSpell.words": [
         "Karel",
-        "Pieterse"
+        "Pieterse",
+        "signoff"
     ],
+    "markdownlint.config": {
+        "MD041": false,
+    }
 }
